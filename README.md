@@ -6,7 +6,25 @@ I’m a Frontend-focused Angular Developer with experience building scalable web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nensirijal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simranrijal61@gmail.com) 
 
 # 💻 Tech Stack:
-HTML5 JavaScript Python Netlify Vercel Angular Bootstrap Chakra Context-API React React-Router  Canva Figma GitHub Git Bitbucket GitLab Jira Postman
+* HTML5
+* JavaScript
+* Python
+* Netlify
+* Vercel
+* Angular
+* Bootstrap
+* Chakra
+* Context-API
+* React
+* React-Router
+* Canva
+* Figma
+* GitHub
+* Git
+* Bitbucket
+* GitLab
+* Jira
+* Postman
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nensi-Rijal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
