@@ -14,14 +14,29 @@ I am a dedicated and responsible developer with over 4 years of experience build
 * Architecture: I bridge the gap between frontend elegance and backend logic, with a 75/25 split between Development and System Support.
 
 ### 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-
-| Frontend | Angular, React, TypeScript, JavaScript (ES6+), Context-API, React-Router |
-| Styling/UI | CSS3, SCSS, Bootstrap, Chakra UI, Figma, Canva |
-| Backend/DevOps | Python, Django, REST APIs, Netlify, Vercel |
-| SysAdmin/Lab | Active Directory, Linux (Ubuntu/CentOS), Bash Scripting |
-| Tools | Git, GitHub, GitLab, Bitbucket, Jira, Postman |
+* HTML5
+* JavaScript
+* Python
+* Netlify
+* Vercel
+* Angular
+* Bootstrap
+* Chakra
+* Context-API
+* React
+* React-Router
+* Canva
+* Figma
+* GitHub
+* Git
+* Bitbucket
+* GitLab
+* Jira
+* Postman
+* Active Directory
+* Linux
+* Bash Scripting
+* REST APIs
 
 ### 🔭 What I’m Working On
 
@@ -48,41 +63,13 @@ I’m looking to contribute to projects involving:
 
 ---
 
-### 📊 GitHub Stats
-
----
-
 ### ⚡ Fun Fact
 
 I actually enjoy the "support" side of development! There’s a unique satisfaction in troubleshooting a server issue (System Admin) and then switching gears to fix a CSS bug (Developer) in the same afternoon.
 
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nensirijal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simranrijal61@gmail.com) 
 
-# 💻 Tech Stack:
-* HTML5
-* JavaScript
-* Python
-* Netlify
-* Vercel
-* Angular
-* Bootstrap
-* Chakra
-* Context-API
-* React
-* React-Router
-* Canva
-* Figma
-* GitHub
-* Git
-* Bitbucket
-* GitLab
-* Jira
-* Postman
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nensi-Rijal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
