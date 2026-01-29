@@ -1,5 +1,63 @@
+
 # 💫 About Me:
-I’m a Frontend-focused Angular Developer with experience building scalable web applications and improving complex user interfaces across e-commerce and ERP systems. I’ve progressed from an intern to owning key UI modules end-to-end, with additional experience in React and backend integration using Python/Django and REST APIs. <br><br>🔭 I’m currently working on<br>Building and maintaining React-based web applications and integrating them with RESTful APIs and Python/Django backend services, with a focus on performance, clean UI flows, and maintainable component design. <br><br>👯 I’m looking to collaborate on<br>Angular or React projects involving UI refactoring, reusable component libraries, dashboard/ERP interfaces, e-commerce workflows (cart/checkout), and frontend integration with APIs. <br><br>🤝 I’m looking for help with<br>Advanced frontend architecture patterns, scalable state management approaches, performance tuning for large Angular apps, and best practices for maintainable codebases in real-world projects. <br><br>🌱 I’m currently learning<br>Strengthening full-stack fundamentals with deeper React, improved backend integration using Python/Django, and building more confidence with REST API design/consumption and modern frontend best practices. <br><br>💬 Ask me about<br>* Angular development (components, services, reusable UI patterns)<br>* UI simplification and refactoring complex workflows<br>* E-commerce cart systems (pricing logic, state handling, UI flow)<br>* ERP-based UI modules (dashboards, forms, reporting screens)<br>* React fundamentals and REST API integration <br><br>⚡ Fun fact<br>I started as an Angular intern and grew into owning production UI modules — I enjoy turning complex interfaces into simpler, cleaner, and more user-friendly experiences (including improvements that contributed to a 10% increase in engagement). <br><br>
+
+# Hi there, I'm Nensi Rijal 👋
+
+### Frontend-Focused Software Developer | Angular & React Specialist
+
+I am a dedicated and responsible developer with over 4 years of experience building scalable web applications. I specialize in turning complex UI requirements—like those found in ERP and E-commerce systems—into clean, user-friendly experiences. My journey from an intern to a full-time developer has given me a deep appreciation for maintainable code and system stability.
+
+### 🚀 Professional Snapshot
+
+* Current Focus: Developing React-based applications integrated with Python/Django backends while providing System Administration support (Active Directory, Linux).
+* The "Win": While at Suktas, I owned production UI modules that led to a 10% increase in user engagement through refactoring and UI simplification.
+* Architecture: I bridge the gap between frontend elegance and backend logic, with a 75/25 split between Development and System Support.
+
+### 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+
+| Frontend | Angular, React, TypeScript, JavaScript (ES6+), Context-API, React-Router |
+| Styling/UI | CSS3, SCSS, Bootstrap, Chakra UI, Figma, Canva |
+| Backend/DevOps | Python, Django, REST APIs, Netlify, Vercel |
+| SysAdmin/Lab | Active Directory, Linux (Ubuntu/CentOS), Bash Scripting |
+| Tools | Git, GitHub, GitLab, Bitbucket, Jira, Postman |
+
+### 🔭 What I’m Working On
+
+* Building: Highly reusable component libraries for dashboard and reporting screens.
+* Learning: Advanced frontend architecture patterns and performance tuning for large-scale Angular applications.
+* Home Lab: Experimenting with **Active Directory** and Linux server hardening to strengthen my system administration expertise.
+
+### 🤝 Let's Collaborate
+
+I’m looking to contribute to projects involving:
+
+* UI Refactoring: Turning "messy" legacy code into modular, clean components.
+* ERP/E-commerce: Building complex workflows like pricing logic, cart state handling, and data-heavy dashboards.
+* API Integration: Connecting modern frontends with robust Python/Django backends.
+
+---
+
+### 💬 Ask Me About
+
+* Angular: Components, Services, and RxJS patterns.
+* UI/UX: How to simplify complex workflows for the end-user.
+* E-commerce: Handling state and logic for carts and checkouts.
+* Full-Stack: Integrating React with RESTful services.
+
+---
+
+### 📊 GitHub Stats
+
+---
+
+### ⚡ Fun Fact
+
+I actually enjoy the "support" side of development! There’s a unique satisfaction in troubleshooting a server issue (System Admin) and then switching gears to fix a CSS bug (Developer) in the same afternoon.
+
+
+
 
 
 ## 🌐 Socials:
